@@ -6,7 +6,4 @@ Feature: iPlayer website
     When I login to the iplayer page 
     Then I click on the green trigger
 
-    Examples:
-      | username | password             | message                        |
-      | balajichinu98@outlook.com | I98liverpool | You logged into a secure area! |
-    
+   
